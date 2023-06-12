@@ -10,14 +10,14 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 La comunicación y la salud
+        p.mb-4 Identificar los diferentes sistemas de comunicación y su función, con el fin de utilizarlos en los procesos de comunicación que se deben llevar a cabo, con el fin de transmitir lo que se necesita en cuanto a protocolos, procesos y normatividad, entre otras cosas en el sistema de salud pública.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Falso/verdadero
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
