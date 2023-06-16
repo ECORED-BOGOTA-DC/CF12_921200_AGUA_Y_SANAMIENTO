@@ -100,7 +100,7 @@
     
     p(data-aos="fade-up") Para Serrano y Zapico, (2004), los cuales toman el modelo de comunicación de Laswell de 1948, retoman la existencia de los cinco elementos para analizar un acto de comunicación y son :
 
-    SlyderF.mt-5(columnas="col-lg-4")
+    SlyderF.slyderf2_1.mt-5(columnas="col-lg-4")
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/8.svg')
         .tarjeta.color-primario(style="border-radius:10px;")
@@ -267,7 +267,7 @@ export default {
   border-color: #008B8A
 .slyder-a__bullets__item
   background-color: #91C9CE
-.slyder-f__btn i
+.slyderf2_1 .slyder-f__btn i
   color: white
   background-color: #008B8A
   border-radius: 100%
