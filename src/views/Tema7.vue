@@ -17,9 +17,9 @@
     Separador.mt-5
     
     .titulo-segundo
-      h2#t_7_1 7.1.  Buenas prácticas agrícolas
+      h2#t_7_1 7.1  Buenas prácticas agrícolas
     
-    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y desarrollo rural (2009), en su cartilla mis buenas prácticas agrícolas, son las prácticas aplicadas en las unidades productivas desde la planeación del cultivo hasta la cosecha, el empaque y transporte del alimento, con el fin de asegurar su inocuidad, seguridad del medio ambiente y bienestar de los trabajadores, en estas se verifican los siguientes requisitos:
+    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla mis buenas prácticas agrícolas, son las prácticas aplicadas en las unidades productivas desde la planeación del cultivo hasta la cosecha, el empaque y transporte del alimento, con el fin de asegurar su inocuidad, seguridad del medio ambiente y bienestar de los trabajadores, en estas se verifican los siguientes requisitos:
 
     ul.lista-ul.mt-4.ps-0.ps-md-4.mb-0
       li.d-flex(data-aos="fade-up")
@@ -58,9 +58,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_7_2 7.2.  Buenas prácticas de manufactura
+      h2#t_7_2 7.2  Buenas prácticas de manufactura
     
-    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla mis buenas prácticas agrícolas hacen referencia a las BPM como aquellas prácticas preventivas utilizadas en la preparación, manipulación, almacenamiento, transporte y distribución de alimentos para asegurar su inocuidad en el consumo humano.
+    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla Mis Buenas Prácticas Agrícolas hacen referencia a las BPM como aquellas prácticas preventivas utilizadas en la preparación, manipulación, almacenamiento, transporte y distribución de alimentos para asegurar su inocuidad en el consumo humano.
     p.mt-4(data-aos="fade-up") En Colombia las buenas prácticas de manufactura para garantizar las condiciones higiénicas en la manipulación preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano definidas por el Decreto 3075 de 1997, modificado parcialmente por la resolución 2674 de 2013 y su cumplimiento es realizado por la autoridad sanitaria competente como se habló en capítulos anteriores.
 
     p.mt-5(data-aos="fade-up") Las buenas prácticas de manufactura incluyen la revisión de las condiciones higiénico sanitarias óptimas en: 
@@ -123,49 +123,42 @@
             figure
               img(src='@/assets/curso/tema7/2.png')
           .col-md-6.col-lg-8
-            h5 Principio 1
             p Análisis de peligros e identificar las medidas preventivas respectivas. 
         .row.col-lg-11.m-auto(titulo="Principio 2")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/3.png')
           .col-md-6.col-lg-8
-            h5 Principio 2
             p Determinar los puntos críticos de control (PCC) que según el Codex Alimentarius es: una etapa donde se puede aplicar un control y que sea esencial para evitar o eliminar un peligro a la inocuidad del alimento.
         .row.col-lg-11.m-auto(titulo="Principio 3")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/4.png')
           .col-md-6.col-lg-8
-            h5 Principio 3
             p Establecer límites críticos.
         .row.col-lg-11.m-auto(titulo="Principio 4")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/5.png')
           .col-md-6.col-lg-8
-            h5 Principio 4
             p Establecer un sistema de control para monitorear los PCC.
         .row.col-lg-11.m-auto(titulo="Principio 5")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/6.png')
           .col-md-6.col-lg-8
-            h5 Principio 5
             p Establecer las acciones correctivas a ser tomadas, cuando el monitoreo indique que un determinado PCC no está bajo control.
         .row.col-lg-11.m-auto(titulo="Principio 6")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/7.png')
           .col-md-6.col-lg-8
-            h5 Principio 6
             p Establecer procedimientos de verificación para confirmar si el sistema HACCP está funcionando de manera eficaz.
         .row.col-lg-11.m-auto(titulo="Principio 7")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema7/8.png')
           .col-md-6.col-lg-8
-            h5 Principio 7
             p Establecer documentación para todos los procedimientos y registros apropiados a esos principios y su aplicación.
     
     .col-lg-10.m-auto.mt-5
@@ -180,19 +173,19 @@
                 p.text-small.mb-0 En el material complementario podrá acceder a la sección del sistema HACCP de la página de la Organización Panamericana de la Salud, en la cual se profundiza en cada uno de los principios del sistema HACCP y cómo implementarlos. 
               .col-sm-auto
                 a.boton.color-primario(href="https://www.paho.org/hq/index.php?option=com_content&view=article&id=10913:2015-sistema-haccp-siete-principios&Itemid=41452&lang=es" target="_blank")
-                  span(style="color:#12263F !important;") Descargar
-                  i.fas.fa-file-download(style="color:#12263F !important;")
+                  span(style="color:#12263F !important;") Ver página
+                  i.fas.fa-link(style="color:#12263F !important;")
     
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_7_4 7.4.  Procesos de control para agua de consumo
+      h2#t_7_4 7.4  Procesos de control para agua de consumo
     
     p(data-aos="fade-up") Otra línea de atención y de prevención en salud pública, está relacionado al manejo adecuado de acciones de control en la cadena de suministro y transporte de agua para consumo humano, las cuales se pueden clasificar como Buenas Prácticas Sanitarias (BPS) y Buenas Prácticas Operacionales (BPO).
 
     h3.mt-5(data-aos="fade-up") Buenas Prácticas Sanitarias (BPS)
 
-    p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (2016), en su documento protocolo Autocontrol persona prestadora del servicio público de acueducto y los procesos de supervisión por parte de la Autoridad Sanitaria, las BPS son los principios básicos y prácticas operativas generales de higiene para el suministro y distribución del agua para consumo humano, con el objeto de identificar los riesgos que pueda presentar la infraestructura, de conformidad con el Decreto 1575 de 2007.
+    p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (2016), en su documento protocolo Autocontrol Persona Prestadora Del Servicio Público De Acueducto Y Los Procesos De Supervisión Por Parte De La Autoridad Sanitaria, las BPS son los principios básicos y prácticas operativas generales de higiene para el suministro y distribución del agua para consumo humano, con el objeto de identificar los riesgos que pueda presentar la infraestructura, de conformidad con el Decreto 1575 de 2007.
     p.mt-3(data-aos="fade-up") Luego en este aspecto se deben encontrar: 
 
     ul.lista-ul.mt-4.ps-0.ps-md-4.mb-0
@@ -244,7 +237,7 @@
                   span(style="color:#12263F !important;") Descargar
                   i.fas.fa-file-download(style="color:#12263F !important;")
     
-    h3.mt-5(data-aos="fade-up") Buenas Prácticas Operativas (BPO).
+    h3.mt-5(data-aos="fade-up") Buenas Prácticas Operativas (BPO)
 
     p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (2016), son las actividades operativas, de mantenimiento y control de procesos que en forma permanente se realizan en las estructuras y equipos que conforman el sistema de suministro de agua para consumo humano, necesarias para el tratamiento, almacenamiento y distribución del agua.
     p.mt-3(data-aos="fade-up") Este aspecto debe describir las actividades que se realizan en la operación y en el mantenimiento de los componentes del sistema de suministro de agua para consumo humano; también debe contener la descripción de los productos químicos utilizados en el tratamiento de agua, con su correspondiente procedimiento para el cumplimiento de los requisitos establecidos.

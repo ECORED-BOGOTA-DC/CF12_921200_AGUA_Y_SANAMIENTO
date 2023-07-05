@@ -13,11 +13,11 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_6_1 6.1.  Procesos misionales
+      h2#t_6_1 6.1  Procesos misionales
     
     p(data-aos="fade-up") Son todos los que se establecen como acción preventiva de la seguridad sanitaria, dentro de los procesos misionales se encuentran dos macroprocesos claves ligados entre sí, pero funcionalmente diferentes: la fiscalización y el aseguramiento sanitario de las cadenas productivas.
 
-    h3.mt-5(data-aos="fade-up") Fiscalización sanitaria.
+    h3.mt-5(data-aos="fade-up") Fiscalización sanitaria
 
     p.mt-4(data-aos="fade-up") Es el proceso mediante el cual se da verificación del cumplimiento de la normatividad sanitaria e identificación de factores de riesgo y potenciales efectos de los procesos productivos sobre la salud humana.
     p.mt-3(data-aos="fade-up") Dentro de la fiscalización sanitaria también se puede hacer investigación y sanción a los agentes transgresores de la norma sanitaria, mediante la aplicación de medidas correctivas y preventivas en las cadenas de producción, almacenamiento, distribución y consumo.
@@ -49,7 +49,7 @@
               | La recolección, acopio y procesamiento de datos, a través de estrategias de vigilancia activa y pasiva y muestreos sistemáticos de objetos para análisis, debidamente protocolizados y estandarizados.
             li.d-flex
               i.lista-ul__vineta
-              | El análisis, interpretación y difusión de información pertinente a los tomadores de decisiones
+              | El análisis, interpretación y difusión de información pertinente a los tomadores de decisiones.
             li.d-flex
               i.lista-ul__vineta
               | La definición y recomendación de medidas sanitarias y de seguridad que deberían ser adoptadas (Ministerio de Salud y Protección Social, 2013).

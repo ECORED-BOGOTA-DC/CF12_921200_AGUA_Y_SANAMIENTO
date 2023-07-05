@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Estrategias de intervención en salud pública.',
+    componenteFormativo: 'Estrategias de intervención en salud pública',
     descripcionCurso:
       'Para realizar intervenciones dentro del marco de la salud pública, es importante conocer el funcionamiento del sistema y las estrategias de intervención en las comunidades, identificando sus condiciones de vida. Por consiguiente, es necesario implementar estrategias de comunicación y atención comunitaria para poder establecer las medidas de prevención y control de enfermedades.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Política de atención integral en salud',
+        titulo: 'Enfermedades de interés en salud pública',
         desarrolloContenidos: true,
       },
       {
@@ -71,7 +71,7 @@ export default {
           },
           {
             numero: '2.5',
-            titulo: 'Características especiales',
+            titulo: 'Características principales',
             hash: 't_2_5',
           },
           {
@@ -224,7 +224,7 @@ export default {
     {
       tema: '4. Caracterización de riesgo en vivienda',
       referencia:
-        'Ministerio de salud y protección social. (2016). Entorno laboral saludable dirección de desarrollo y talento humano en salud.',
+        'Ministerio de Salud Y Protección Social. (2016). Entorno laboral saludable dirección de desarrollo y talento humano en salud.',
       tipo: 'Documento gubernamental',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/TH/entorno-laboral-saludable-incentivo-ths-final.pdf',
@@ -289,7 +289,7 @@ export default {
     },
     {
       referencia:
-        'Busse, P y Godoy, S. (2016). Comunicación y salud. Cuadernos.info',
+        'Busse, P y Godoy, S. (2016). Comunicación y salud. <em>Cuadernos.info</em>',
       link:
         'https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-367X2016000100001&lng=es&tlng=es',
     },
@@ -351,7 +351,7 @@ export default {
     },
     {
       referencia:
-        'Moncada, A. (2018).la promoción de la salud y los medios de comunicación describe que el papel que juegan los medios de comunicación en la Promoción de la Salud.',
+        'Moncada, A. (2018). La promoción de la salud y los medios de comunicación describe que el papel que juegan los medios de comunicación en la Promoción de la Salud.',
       link:
         'https://www.easp.es/web/blogps/2018/05/15/la-promocion-de-la-salud-y-los-medios-de-comunicacion/',
     },
@@ -408,15 +408,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -424,10 +424,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuación instruccional - 2023',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -435,22 +441,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Adriana Marcela Suarez Eljure',
           cargo: 'Diseñador web',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -458,22 +476,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Validación de contenidos accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

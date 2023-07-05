@@ -7,11 +7,11 @@
         span 3
       h1 Caracterización de comunidades
     
-    p(data-aos="fade-up") Cuando se realiza un trabajo con comunidad es necesario hacer una intervención donde se establezcan diferentes factores que puedan afectar la salud; una vez se tengan los resultados se pueden plantear mejoras en el hábitat de la comunidad integrando los diferentes entornos donde los habitantes se mueven en su día a día.
+    p(data-aos="fade-up") Cuando se realiza un trabajo con comunidad es necesario hacer una intervención donde se establezcan diferentes factores que puedan afectar la salud; una vez se tengan los resultados se pueden plantear mejoras en el hábitat de la comunidad, integrando los diferentes entornos donde los habitantes se mueven en su día a día.
 
-    h3.subtitulo_cf(data-aos="fade-up") Factores de riesgo
+    h3.subtitulo_cf(data-aos="fade-up") Intervención a comunidades
 
-    p.mt-4(data-aos="fade-up") La Organización Mundial de la Salud (OMS), define los factores de riesgo para la salud como cualquier rasgo, característica o exposición de un individuo que aumente su probabilidad de sufrir una enfermedad o lesión. Entre los factores de riesgo más importantes cabe citar la insuficiencia ponderal, las prácticas sexuales de riesgo, la hipertensión, el consumo de tabaco y alcohol, el agua insalubre, las deficiencias del saneamiento y la falta de higiene. (Organización Mundial de la Salud, 2020).
+    p.mt-4(data-aos="fade-up") Busca el mejoramiento de la calidad de vida y salud de la población requiere que se actúe sobre los determinantes sociales de la salud, a través de procesos participativos organizados alrededor de entornos específicos (Ministerio de Salud y Protección Social, 2013). Razón por la cual la ejecución operativa de este componente se realizará a través de los siguientes programas:
 
     .p-4.mt-5(style="background-color:#DBEFFC;")
       .row
@@ -20,7 +20,7 @@
           p.mt-4(data-aos="fade-up") Cuando se habla de hábitat saludable se deben tener en cuenta todos los factores que pueden afectar el bienestar de un individuo, algunos de los más importantes son la vivienda, el entorno educativo, el entorno comunitario y el entorno laboral.
           h5.mt-5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Vivienda saludable
           p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), define el concepto de vivienda saludable como un espacio de residencia caracterizado por un conjunto de condiciones que influyen de manera favorable en los procesos de restauración, protección y promoción de la salud e incentiva la actividad creadora y el aprendizaje de sus moradores. 
-          p.mt-3(data-aos="fade-up") De igual manera establece la vivienda como espacio vital que debe cumplir con una serie de características para que brinde seguridad, protección, intimidad y contribuya al bienestar de cada una de las personas que la habitan. Estas son:
+          p.mt-3(data-aos="fade-up") De igual manera, establece la vivienda como espacio vital que debe cumplir con una serie de características para que brinde seguridad, protección, intimidad y contribuya al bienestar de cada una de las personas que la habitan. Estas son:
         .col-lg-4(style="place-self:center;")
           figure
             img(src="@/assets/curso/tema3/1.png" data-aos="fade-left")
@@ -30,7 +30,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-lg-11.m-auto(titulo="Ubicación")
             .col-md-6.col-lg-8.mb-4.mb-md-0
-              p La vivienda debe estar situada en un terreno estable, retirada de cualquier riesgo natural que se pueda presentar en la zona tales como deslizamientos de tierra, inundaciones y de los riesgos antrópicos tales como líneas de tensión, desechos industriales y otros.
+              p La vivienda debe estar situada en un terreno estable, retirada de cualquier riesgo natural que se pueda presentar en la zona, tales como deslizamientos de tierra, inundaciones y de los riesgos antrópicos tales como líneas de tensión, desechos industriales y otros.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/3.svg')
@@ -52,7 +52,7 @@
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/6.svg')
-          .row.col-lg-11.m-auto(titulo="Condiciones higiénicos - sanitarias")
+          .row.col-lg-11.m-auto(titulo="Condiciones higiénico - sanitarias")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Las aguas lluvias y las aguas negras tienen desagües técnica y ambientalmente apropiados, la evacuación de excrementos es técnica y ambientalmente apropiada, los residuos se pueden manipular técnicamente dentro de la vivienda. 
             .col-md-6.col-lg-4
@@ -98,7 +98,7 @@
       .cajon.color-acento-botones.p-4(style="background-color:#BFEEF4;")
         p.mb-0(data-aos="fade-up") Cuando se tiene un entorno educativo saludable se beneficia toda la comunidad educativa, que está constituida por estudiantes (niños, niñas, adolescentes, adultos y vejez) acudientes, directivos, educadores, administradores escolares, universitarios, establecimientos de educación para el trabajo y el desarrollo humano y egresados. 
     
-    p.mt-5(data-aos="fade-up") Para lograr un entorno educativo saludable se deben articular diferentes componentes entre los cuales están :
+    p.mt-5(data-aos="fade-up") Para lograr un entorno educativo saludable se deben articular diferentes componentes, entre los cuales están:
 
     .col-lg-10.m-auto.mt-5
       AcordionA.acordion1(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -108,9 +108,9 @@
           .col-md-6.col-lg-4
             figure
               img(src='@/assets/curso/tema3/10.png')
-        .row.col-lg-11.m-auto(titulo="Gestión de Servicios sociales para el desarrollo humano ")
+        .row.col-lg-11.m-auto(titulo="Gestión de Servicios sociales para el desarrollo humano")
           .col-md-6.col-lg-8.mb-4.mb-md-0
-            p Se establecen los actores sociales del entorno educativo como seres multidimensionales que no solo deben cumplir con las labores académicas, sino que tienen un papel en la sociedad, se forman con integralidad y desarrollan sus competencias mejorando su calidad de vida. Los servicios sociales dentro de los entornos educativos permiten potenciar estas habilidades blandas en la comunidad educativa permitiendo el desarrollo intra e interpersonal.
+            p Se establecen los actores sociales del entorno educativo como seres multidimensionales que no solo deben cumplir con las labores académicas, sino que tienen un papel en la sociedad, se forman con integralidad y desarrollan sus competencias mejorando su calidad de vida. Los servicios sociales dentro de los entornos educativos permiten potenciar estas habilidades blandas en la comunidad educativa, permitiendo el desarrollo intra e interpersonal.
           .col-md-6.col-lg-4
             figure
               img(src='@/assets/curso/tema3/11.png')
@@ -129,7 +129,7 @@
     
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Entornos comunitarios saludables
-      p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento plan decenal de salud pública 2012 – 2021, establece que el entorno comunitario está constituido por un conjunto de escenarios en los cuales los individuos y los grupos sociales ejercen su autonomía funcional y política, enmarcados en relaciones sociales que pueden proteger o deteriorar su salud y que han sido construidas históricamente.
+      p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento Plan Decenal De Salud Pública 2012 – 2021, establece que el entorno comunitario está constituido por un conjunto de escenarios en los cuales los individuos y los grupos sociales ejercen su autonomía funcional y política, enmarcados en relaciones sociales que pueden proteger o deteriorar su salud y que han sido construidas históricamente.
       p.mt-3(data-aos="fade-up") Los procesos de concentración urbana de la población ejercen una presión sobre la infraestructura de los municipios incluyendo disponibilidad de servicios públicos, transporte, vivienda, educación, espacios recreativos, trabajo y el equipamiento en salud, que afectan la salud y calidad de vida de la población. Para tener un entorno comunitario saludable es importante cumplir con varios enfoques que están relacionados en el marco de la Política de Atención Integral en Salud, estos son:
       ul.lista-ul.ps-0.ps-md-5.mb-0.mt-4
         li.d-flex.flex-wrap(data-aos="fade-up")
@@ -172,13 +172,13 @@
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Entornos de trabajo saludables
       p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento plan decenal de salud pública 2012 - 2021 establece que el entorno laboral es el espacio del territorio donde las personas y los grupos sociales se organizan para producir bienes y servicios. En él se expresan las relaciones construidas socialmente, que determinan exposiciones diferenciales y resultados desiguales en la salud de las personas en función de la posición ocupacional en las cadenas productivas nacionales y transnacionales.
-      p.mt-3(data-aos="fade-up") Así mismo, el Ministerio de Salud y Protección Social (2016) en su documento Entorno laboral saludable como incentivo al talento humano en salud, establece que los espacios laborales saludables deben tener en cuenta tres factores importantes que son:
+      p.mt-3(data-aos="fade-up") Así mismo, el Ministerio de Salud y Protección Social (2016) en su documento Entorno Laboral Saludable Como Incentivo Al Talento Humano En Salud, establece que los espacios laborales saludables deben tener en cuenta tres factores importantes que son:
       ul.lista-ul.ps-0.ps-md-5.mb-0.mt-4
         li.d-flex.flex-wrap(data-aos="fade-up")
           p #[i.fas.fa-circle(style="color:#008B8A;")] #[strong Espacio físico:] es la combinación entre puestos de trabajo y condiciones ambientales. Se deben tener en cuenta aspectos como la ergonomía, iluminación, ventilación, temperatura, entre otras. Un espacio físico idóneo puede mejorar la productividad, la motivación laboral, el espíritu de trabajo, la satisfacción en el trabajo y la calidad de vida general.
-          p Con el fin de mejorar los espacios físicos y por ende el entorno laboral se debe construir políticas de trabajo seguro, autocuidado, desarrollo de habilidades, buenas prácticas laborales y salud emocional del trabajador.
+          p Con el fin de mejorar los espacios físicos y por ende el entorno laboral, se debe construir políticas de trabajo seguro, autocuidado, desarrollo de habilidades, buenas prácticas laborales y salud emocional del trabajador.
         li.d-flex.flex-wrap(data-aos="fade-up")
-          p #[i.fas.fa-circle(style="color:#008B8A;")] #[strong Medio psicosocial:] es la interacción que tiene el trabajador con su labor, la satisfacción con la misma y el desarrollo que tiene al realizarla. El principal factor que se debe tener en cuenta para mejorar el medio psicosocial es la estabilidad laboral puesto que el miedo que más presentan los trabajadores es la pérdida de su empleo. Este puede llevar a episodios de estrés, pérdida de productividad, problemas de salud, entre otros.
+          p #[i.fas.fa-circle(style="color:#008B8A;")] #[strong Medio psicosocial:] es la interacción que tiene el trabajador con su labor, la satisfacción con la misma y el desarrollo que tiene al realizarla. El principal factor que se debe tener en cuenta para mejorar el medio psicosocial es la estabilidad laboral, puesto que el miedo que más presentan los trabajadores es la pérdida de su empleo. Este puede llevar a episodios de estrés, pérdida de productividad, problemas de salud, entre otros.
           p El segundo factor de mayor importancia es la supervisión. La mayor parte de los trabajadores tiene baja participación en la toma de decisiones, escasos niveles de comunicación y apoyo, junto a la ausencia de políticas de conciliación. Asimismo, el conflicto y la ambigüedad de roles, el exceso de responsabilidad, la escasez de formación y reciclaje, la inseguridad laboral, la ausencia de oportunidades de promoción profesional y desarrollo, por lo que es necesario diseñar planes que permitan la mejora del medio psicosocial en la organización.
         li.d-flex.flex-wrap(data-aos="fade-up")
           p #[i.fas.fa-circle(style="color:#008B8A;")] #[strong Apoyo social:] con el fin de mejorar las relaciones interpersonales se realizan diferentes entrenamientos en resolución de problemas, manejo eficaz del tiempo, y la adopción de estilos de vida saludables que faciliten el distanciamiento del trabajo en horario extralaboral. Los trabajadores así obtienen distintas herramientas de mejoramiento en la calidad de vida. Una vez el trabajador cuenta con esas herramientas se inician prácticas de motivación basadas en el modelo Herzberg donde se llevan a los trabajadores a actuar y vincular con su desempeño y satisfacción a la empresa, y se le asignan procesos organizacionales que influyen para que tanto los motivos del trabajador como los de la empresa vayan en la misma dirección.
@@ -258,7 +258,7 @@
         .row
           .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
             h5(data-aos="fade-right") Transferencia de tecnologías y acceso a información
-            p.mb-0(data-aos="fade-right") Se debe asegurar un adecuado flujo de información y soporte a la transferencia de las mejores tecnologías disponibles y prácticas empresariales, así como a la adecuada apropiación del “know-how” o el “saber hacer”.
+            p.mb-0(data-aos="fade-right") Se debe asegurar un adecuado flujo de información y soporte a la transferencia de las mejores tecnologías disponibles y prácticas empresariales, así como a la adecuada apropiación del “#[em know-how]” o el “saber hacer”.
           .col-md-6.col-lg-4(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema3/19.svg' data-aos="fade-left")
@@ -278,14 +278,14 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas de necesidades básicas
-              p.mt-3 El abastecimiento de agua, aire, alimentos, energía y vivienda depende de ecosistemas los cuales deben ser vigilados. En caso de fallar, por ejemplo, el abastecimiento de agua el PIB de una ciudad puede ir a cero.
+              p.mt-3 El abastecimiento de agua, aire, alimentos, energía y vivienda depende de ecosistemas, los cuales deben ser vigilados. En caso de fallar, por ejemplo, el abastecimiento de agua el PIB de una ciudad puede ir a cero.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema3/21.svg')
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas para productividad 
-              p.mt-3 Son aquellos donde se desarrollan actividades económicas tales como la agricultura, ganadería, minería entre otras. Si bien, es frecuente la referencia de capital natural en los análisis económicos se debe ir más allá de la valorización y priorizar la salud del ecosistema ya que de allí depende el abastecimiento de agua, energía, materias primas, etc.
+              p.mt-3 Son aquellos donde se desarrollan actividades económicas tales como la agricultura, ganadería, minería, entre otras. Si bien, es frecuente la referencia de capital natural, en los análisis económicos se debe ir más allá de la valorización y priorizar la salud del ecosistema, ya que de allí depende el abastecimiento de agua, energía, materias primas, etc.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema3/22.png')
@@ -306,7 +306,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas para equilibrio ecológico
-              p.mt-3 La salud de estos ecosistemas permite tener control en la regulación hídrica, mantenimiento de diversidad, riqueza biológica lo que garantiza seguridad alimentaria y control del clima.
+              p.mt-3 La salud de estos ecosistemas permite tener control en la regulación hídrica, mantenimiento de diversidad, riqueza biológica, lo que garantiza seguridad alimentaria y control del clima.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema3/25.svg')

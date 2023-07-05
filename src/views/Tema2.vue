@@ -18,18 +18,18 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_1 2.1. Concepto de comunicación
+      h2#t_2_1 2.1 Concepto de comunicación
     
     p(data-aos="fade-up") La comunicación según Hoyland (1948), es el proceso por medio del cual el individuo (el comunicador) transmite estímulos (generalmente símbolos verbales) para modificar el comportamiento de otros individuos (perceptores), revisemos este concepto a mayor profundidad a través del video que se expone a continuación:
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2nc8ObjHfeM" title="Concepto de comunicación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_2 2.2.  Clases de comunicación
+      h2#t_2_2 2.2  Clases de comunicación
     
     p(data-aos="fade-up") El tipo de información que se quiere comunicar, el método, la cantidad de personas a las que se quiere llegar y el canal por el cual se va a transmitir, definen diferentes clases de comunicación, algunos ejemplos son:
 
@@ -46,7 +46,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Comunicación recíproca y unilateral
-              p.mt-3 La comunicación siempre se efectúa, sea recíprocamente, según lo indica Maletzke. (1992), ejemplo de esto es la conversación personal, en la que las partes cambian continuamente sus papeles de emisores y perceptores; o unilateralmente, o sea sin cambio de papeles, de tal modo que una parte continuamente emite y la otra continuamente percibe los mensajes.
+              p.mt-3 La comunicación siempre se efectúa, sea recíprocamente, según lo indica Maletzke (1992), ejemplo de esto es la conversación personal, en la que las partes cambian continuamente sus papeles de emisores y perceptores; o unilateralmente, o sea sin cambio de papeles, de tal modo que una parte continuamente emite y la otra continuamente percibe los mensajes.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema2/3.svg')
@@ -61,7 +61,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_3 2.3.  Elementos de la comunicación
+      h2#t_2_3 2.3  Elementos de la comunicación
     
     p(data-aos="fade-up") Son muchos los factores que intervienen en la comunicación o en el proceso de envío y recepción de un mensaje, estos deben atenderse en debida forma, con el fin de que dicho mensaje sea llevado o recibido de manera correcta, algunos de estos factores son: emisor, receptor, mensaje, canal de comunicación, contexto entre otros.
     p.mt-4(data-aos="fade-up") Ahora bien, existen 3 elementos ligados indisolublemente a la comunicación, de acuerdo con Lorente, J y Jiménez, M (2009), estos son:
@@ -96,9 +96,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_4 2.4.  Factores en la comunicación social
+      h2#t_2_4 2.4  Factores en la comunicación social
     
-    p(data-aos="fade-up") Para Serrano y Zapico, (2004), los cuales toman el modelo de comunicación de Laswell de 1948, retoman la existencia de los cinco elementos para analizar un acto de comunicación y son :
+    p(data-aos="fade-up") Para Serrano y Zapico (2004), los cuales toman el modelo de comunicación de Laswell de 1948, retoman la existencia de los cinco elementos para analizar un acto de comunicación y son :
 
     SlyderF.slyderf2_1.mt-5(columnas="col-lg-4")
       .tarjeta-avatar
@@ -135,9 +135,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_5 2.5.  Características especiales
+      h2#t_2_5 2.5 Características principales
     
-    p(data-aos="fade-up") De acuerdo con Alcalay, R. (2002), en su documento, la comunicación para la salud como disciplina en las universidades estadounidenses, describe como características principales de la comunicación las siguientes:
+    p(data-aos="fade-up") De acuerdo con Alcalay, R (2002), en su documento, la comunicación para la salud como disciplina en las universidades estadounidenses, describe como características principales de la comunicación las siguientes:
 
     .row.mt-5
       .col-md-6.col-lg.mb-4.mb-lg-0
@@ -164,9 +164,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_6 2.6.  Medios de comunicación en la salud
+      h2#t_2_6 2.6  Medios de comunicación en la salud
     
-    p(data-aos="fade-up") De acuerdo con Moncada, A (2018), en su artículo la promoción de la salud y los medios de comunicación describe que el papel que juegan los medios de comunicación en la promoción de la salud es una cuestión que se ha contemplado desde 1986. En la carta de Ottawa se definió a la promoción de la salud como “el proceso de facultar a las personas para que aumenten el control que tienen sobre su salud y para mejorarla”, estableciendo, además, que los medios de comunicación son actores claves para la promoción de la salud.
+    p(data-aos="fade-up") De acuerdo con Moncada, A (2018), en su artículo La Promoción De La Salud Y Los Medios De Comunicación describe que el papel que juegan los medios de comunicación en la promoción de la salud es una cuestión que se ha contemplado desde 1986. En la carta de Ottawa se definió a la promoción de la salud como “el proceso de facultar a las personas para que aumenten el control que tienen sobre su salud y para mejorarla”, estableciendo, además, que los medios de comunicación son actores claves para la promoción de la salud.
     p.mt-4(data-aos="fade-up") La importancia de los medios usados para comunicar temas relacionados con salud radica en que lograr que el mensaje emitido sea apropiado y captado por el receptor. Estos medios pueden ser:
 
     .col-lg-8.m-auto.mt-5
@@ -188,7 +188,7 @@
         div(numero="3" titulo="Radio")
           .row
             .col-lg-9.mb-4.mb-lg-0
-              p.mb-0 Este es considerado uno de los medios de comunicación de gran capacidad de cobertura además de su característica de transportabilidad, lo que indica que no importa las distancias mientras el receptor tenga el medio para escuchar puede recibir el mensaje.
+              p.mb-0 Este es considerado uno de los medios de comunicación de gran capacidad de cobertura, además de su característica de transportabilidad, lo que indica que no importa las distancias mientras el receptor tenga el medio para escuchar puede recibir el mensaje.
             .col-lg-3
               figure.text-center
                 img(src="@/assets/curso/tema2/15.svg" style="max-width:105px;display:inline;")
@@ -210,10 +210,10 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_7 2.7.  Funciones fundamentales de la comunicación
+      h2#t_2_7 2.7  Funciones fundamentales de la comunicación
     
-    p(data-aos="fade-up") La comunicación como ya se ha mencionado, es la actividad que consiste en transmitir y/o recibir un mensaje, sus funciones dependen del objetivo que se quiera alcanzar con este intercambio de información, por esta razón existen diversas funciones necesarias y fundamentales de la comunicación.
-    p.mt-4(data-aos="fade-up") De acuerdo con Lorente, J y Jiménez, M (2009). dentro de las funciones de la comunicación se encuentran:
+    p(data-aos="fade-up") La comunicación, como ya se ha mencionado, es la actividad que consiste en transmitir y/o recibir un mensaje, sus funciones dependen del objetivo que se quiera alcanzar con este intercambio de información, por esta razón existen diversas funciones necesarias y fundamentales de la comunicación.
+    p.mt-4(data-aos="fade-up") De acuerdo con Lorente, J y Jiménez, M (2009), dentro de las funciones de la comunicación se encuentran:
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0
@@ -227,7 +227,7 @@
           figure
             img(src="@/assets/curso/tema2/19.svg" data-aos="zoom-in-up")
           h5.mt-4(data-aos="fade-up") Función afectivo - valorativa
-          p.mt-3(data-aos="fade-up") Muy importante en el marco de la estabilidad emocional de los sujetos y su realización personal. A través de esta función. el hombre se forma una imagen de sí y de los demás.
+          p.mt-3(data-aos="fade-up") Muy importante en el marco de la estabilidad emocional de los sujetos y su realización personal. A través de esta función, el hombre se forma una imagen de sí y de los demás.
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4(style="background-color:#C9E7FB;border-radius:20px;")
           figure

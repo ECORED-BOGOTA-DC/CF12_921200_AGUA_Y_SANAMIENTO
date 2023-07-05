@@ -34,7 +34,7 @@
       .col-lg-2.ps-0.d-none.d-lg-block(style="place-self:center;")
         .arrow-right(data-aos="fade-left")
   
-    p.mt-5(data-aos="fade-up") Existe diversos métodos para recopilar información, esto depende del objetivo que se persiga, los instrumentos que se apliquen para recolectar información debe ser muy completos con el fin de que el resultado que arrojen permita la toma de decisiones y el mejoramiento continuo de los procesos. Para la recolección de información se utilizan los siguientes pasos:
+    p.mt-5(data-aos="fade-up") A continuación se presentan los instrumentos más utilizados para la recolección de información para el sistema de salud pública, esto es:
 
     h3.subtitulo_cf(data-aos="fade-up") Observación etnográfica
 
@@ -103,7 +103,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/uZlcsWBW87w" title="Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     h3.subtitulo_cf(data-aos="fade-up") Encuesta
 
@@ -121,7 +121,7 @@
               img(src='@/assets/curso/tema5/2.svg')
           .col-md-6.col-lg-7
             h5 Definición y operacionalización de la encuesta
-            p Definir objetivos, población y los recursos disponibles, tanto humanos, económicos, tecnológicos y seguridad entre otros, definiendo a partir de allí su factibilidad (Parada & Moreno Garzón, 1999).
+            p Definir objetivos, población y los recursos disponibles, tanto humanos, económicos, tecnológicos y seguridad, entre otros, definiendo a partir de allí su factibilidad (Parada & Moreno Garzón, 1999).
         .row.col-lg-11.m-auto(titulo="2")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
@@ -148,7 +148,7 @@
             figure
               img(src='@/assets/curso/tema5/6.svg')
           .col-md-6.col-lg-7
-            h5 Registro de la muestra
+            h5 Registro de la encuesta
             p Constituir un libro código, digital o físico para consignar los datos obtenidos mediante el formulario, que permita la identificación clara de variables y cuyo diligenciamiento esté claramente definido y socializado con la totalidad de los encuestadores (Parada & Moreno Garzón, 1999).
   
 
