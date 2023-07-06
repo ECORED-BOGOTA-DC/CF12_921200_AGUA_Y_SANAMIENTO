@@ -75,6 +75,21 @@
           figure.bg-white
             img(src="@/assets/curso/tema3/2.svg" data-aos="fade-left")
     
+    .col-lg-10.m-auto.mt-5
+      .tarjeta.color-primario.p-4.p-md-5(style="background-color:#FFECD5;")
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/tema3/26.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                p.fw-bold.mb-1 Manual de vivienda saludable
+                p.text-small.mb-0 Si desea consultar diferentes factores que interfieren en una vivienda saludable consulte el manual de vivienda saludable del Ministerio de Salud y Protección Social en las páginas 39 a la 117, que se encuentra en el material complementario. 
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/manual-educativo-nacional-vivienda-saludable.pdf" target="_blank")
+                  span Descargar
+                  i.fas.fa-file-download
+    
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Entornos educativos saludables
       p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), define el concepto de entorno educativo saludable en su documento plan decenal de salud pública 2012 – 2021, como el espacio geográfico en donde habita la comunidad educativa; donde se construye y reproduce la cultura, se desarrolla el pensamiento, la afectividad y los comportamientos básicos para producir nuevos conocimientos, se buscan alternativas, mejores formas de vivir y relacionarse con su entorno. Los entornos educativos saludables (jardín, escuela, universidades) contribuyen al desarrollo humano de la comunidad educativa, propiciando acciones integrales de promoción de la salud, prevención de la enfermedad en torno al centro educativo, promoviendo el desarrollo humano sostenible de las niñas, los niños, los adolescentes y los jóvenes a través del desarrollo de habilidades y destrezas para cuidar su salud, la de su familia, su comunidad y su ambiente.
@@ -108,6 +123,12 @@
           .col-md-6.col-lg-4
             figure
               img(src='@/assets/curso/tema3/10.png')
+        .row.col-lg-11.m-auto(titulo="Ambientes que favorecen el desarrollo humano")
+          .col-md-6.col-lg-8.mb-4.mb-md-0
+            p Se deben tener en cuenta los espacios físicos, sociales y ambientales para el mejoramiento de la calidad en la educación, el conjunto de estos espacios se conoce como ambiente. Un ambiente saludable minimiza la probabilidad que la comunidad sufra estrés, enfermedades por factores ambientales y se mantenga segura y protegida.
+          .col-md-6.col-lg-4
+            figure
+              img(src='@/assets/curso/tema3/27.png')
         .row.col-lg-11.m-auto(titulo="Gestión de Servicios sociales para el desarrollo humano")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Se establecen los actores sociales del entorno educativo como seres multidimensionales que no solo deben cumplir con las labores académicas, sino que tienen un papel en la sociedad, se forman con integralidad y desarrollan sus competencias mejorando su calidad de vida. Los servicios sociales dentro de los entornos educativos permiten potenciar estas habilidades blandas en la comunidad educativa, permitiendo el desarrollo intra e interpersonal.
@@ -270,7 +291,10 @@
             h5.text-start(data-aos="fade-left") Fomento de investigación
             p.mb-0.text-start(data-aos="fade-left") Se deben incentivar las actividades de investigación en producción y operación sostenible, además del apoyo económico se debe acompañar en la elaboración de estudios y proyectos piloto con componentes de investigación aplicada.
     
-    p.mt-5(data-aos="fade-up") Para lograr implementar los programas de producción sostenible es necesario realizar una serie de pasos con el fin de transformar los procesos productivos convencionales en alternativas más amigables con el medio ambiente. Esta serie de pasos consiste en:
+    .p-4.mt-5(style="background-color:#DBEFFC;")
+      h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Ecosistemas estratégicos saludables
+      p.mt-4.mb-0(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento plan decenal de salud pública 2012 - 2021 establece que la mayor parte del territorio nacional ha sido sometida a usos no sostenibles, que han dado como resultado una disminución de la capacidad productiva de los ecosistemas por destrucción de biodiversidad, erosión, sedimentación, contaminación de suelos y aguas y afectación del balance hídrico de las cuencas, entre otras razones. En conjunto estos procesos han tenido un impacto importante en la salud pública de los territorios; por lo que requiere una respuesta intersectorial, mediante políticas y acciones dirigidas a prevenir el deterioro de los ecosistemas de mayor valor por sus bienes y servicios ecológicos, indispensables para el desarrollo nacional, regional y local; proteger la biodiversidad y la diversidad cultural. De manera específica se incluyen en estos ecosistemas los bosques, páramos, cuencas hídricas, humedales, manglares y mares.
+      p.mt-4.mb-0(data-aos="fade-up") De acuerdo con Márquez, G. (2002), en su documento ecosistemas estratégicos, bienestar y desarrollo, estos son :
 
     .tarjeta.tarjeta--azul.p-4.pt-5.pb-5.mb-5.mt-5(style="background-color:#DFEAF3;")
       .col-lg-11.m-auto
