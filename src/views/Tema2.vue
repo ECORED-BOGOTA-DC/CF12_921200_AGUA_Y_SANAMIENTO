@@ -13,7 +13,7 @@
         p.mt-4(data-aos="fade-up") La comunicación social es un proceso de socialización o transmisión de información a un grupo de personas, su objetivo es que el mensaje transmitido sea apropiado por el receptor.
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/1.png" data-aos="fade-left")
+          img(src="@/assets/curso/tema2/1.png" data-aos="fade-left" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -42,21 +42,21 @@
               p.mt-3 Es aquella comunicación que se realiza de forma directa e inmediata, sin intermediarios, cara a cara; o indirectamente, mediata, transmitida a través de una distancia de espacio, tiempo o de espacio-tiempo entre las partes de la comunicación.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema2/2.svg')
+                img(src='@/assets/curso/tema2/2.svg' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Comunicación recíproca y unilateral
               p.mt-3 La comunicación siempre se efectúa, sea recíprocamente, según lo indica Maletzke (1992), ejemplo de esto es la conversación personal, en la que las partes cambian continuamente sus papeles de emisores y perceptores; o unilateralmente, o sea sin cambio de papeles, de tal modo que una parte continuamente emite y la otra continuamente percibe los mensajes.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema2/3.svg')
+                img(src='@/assets/curso/tema2/3.svg' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Comunicación privada y pública
               p.mt-3 Si lo expresado se dirige exclusivamente a una persona determinada o a un número limitado de personas definidas, se califica como privada. Por el contrario, si la intención del informante es de que el mensaje llegue a cualquiera que está en posición de obtener acceso a él y con el deseo de dirigirse a lo expresado, es decir, si los perceptores no están delimitados ni definidos por el informante, la comunicación tiene el carácter de social o pública (Maletzke, 1992).
             .col-md-6
               figure
-                img(src='@/assets/curso/tema2/4.svg')
+                img(src='@/assets/curso/tema2/4.svg' alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -102,31 +102,31 @@
 
     SlyderF.slyderf2_1.mt-5(columnas="col-lg-4")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/8.svg')
+        img(src='@/assets/curso/tema2/8.svg' alt="Imagen decorativa")
         .tarjeta.color-primario(style="border-radius:10px;")
           .text-center.p-4
             p.text-center.fw-bold.mt-3(style="color:#12263F;") ¿Quién?
             p.mt-4.mb-0 El cual hace referencia a las condiciones del emisor, es decir de quien procede el mensaje.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/9.svg')
+        img(src='@/assets/curso/tema2/9.svg' alt="Imagen decorativa")
         .tarjeta.color-primario(style="border-radius:10px;")
           .text-center.p-4
             p.text-center.fw-bold.mt-3(style="color:#12263F;") ¿Qué?
             p.mt-4.mb-0 Hace referencia al contenido del mensaje transmitido.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/10.svg')
+        img(src='@/assets/curso/tema2/10.svg' alt="Imagen decorativa")
         .tarjeta.color-primario(style="border-radius:10px;")
           .text-center.p-4
             p.text-center.fw-bold.mt-3(style="color:#12263F;") ¿Por qué medio o qué canal?
             p.mt-4.mb-0 Analiza los medios de comunicación por los cuales se transmite el mensaje.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/11.svg')
+        img(src='@/assets/curso/tema2/11.svg' alt="Imagen decorativa")
         .tarjeta.color-primario(style="border-radius:10px;")
           .text-center.p-4
             p.text-center.fw-bold.mt-3(style="color:#12263F;") ¿A quién va dirigida?
             p.mt-4.mb-0 Se realizan análisis de la audiencia, es decir el receptor del mensaje.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/12.svg')
+        img(src='@/assets/curso/tema2/12.svg' alt="Imagen decorativa")
         .tarjeta.color-primario(style="border-radius:10px;")
           .text-center.p-4
             p.text-center.fw-bold.mt-3(style="color:#12263F;") ¿Con qué efectos?
@@ -177,35 +177,35 @@
               p.mb-0 Es uno de los de mayor uso por su facilidad de implementación, su inconveniente radica en que solo es apto para personas alfabetizadas, cuando se usan más gráficos e imágenes se debe garantizar que sean adaptados a cualquier persona independiente de su nivel de alfabetismo.
             .col-lg-3
               figure.text-center
-                img(src="@/assets/curso/tema2/13.svg" style="max-width:105px;display:inline;")
+                img(src="@/assets/curso/tema2/13.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")
         div(numero="2" titulo="Prensa escrita")
           .row
             .col-lg-9.mb-4.mb-lg-0
               p.mb-0 Su efectividad es por llegar a mayor cantidad de población en poco tiempo y permite que sea leída en varias ocasiones por el receptor de la información.
             .col-lg-3
               figure.text-center
-                img(src="@/assets/curso/tema2/14.svg" style="max-width:105px;display:inline;")
+                img(src="@/assets/curso/tema2/14.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")
         div(numero="3" titulo="Radio")
           .row
             .col-lg-9.mb-4.mb-lg-0
               p.mb-0 Este es considerado uno de los medios de comunicación de gran capacidad de cobertura, además de su característica de transportabilidad, lo que indica que no importa las distancias mientras el receptor tenga el medio para escuchar puede recibir el mensaje.
             .col-lg-3
               figure.text-center
-                img(src="@/assets/curso/tema2/15.svg" style="max-width:105px;display:inline;")
+                img(src="@/assets/curso/tema2/15.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")
         div(numero="4" titulo="Televisión")
           .row
             .col-lg-9.mb-4.mb-lg-0
               p.mb-0 Considerado uno de los más importantes, el problema fundamental es que es un medio unidireccional luego no se recibe retroalimentación, pero es considerado el medio de mayor importancia para la parte sanitaria y de salud pública.
             .col-lg-3
               figure.text-center
-                img(src="@/assets/curso/tema2/16.svg" style="max-width:105px;display:inline;")
+                img(src="@/assets/curso/tema2/16.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")
         div(numero="5" titulo="Internet")
           .row
             .col-lg-9.mb-4.mb-lg-0
               p.mb-0 Uno de los medios que se han convertido en pilares para las comunidades por su accesibilidad y su facilidad de uso, sin embargo, en temas de salud se debe tener cuidado con la cantidad de información de dudosa procedencia que se puede encontrar. 
             .col-lg-3
               figure.text-center
-                img(src="@/assets/curso/tema2/17.svg" style="max-width:105px;display:inline;")
+                img(src="@/assets/curso/tema2/17.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -219,19 +219,19 @@
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4(style="background-color:#C9E7FB;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
           h5.mt-4(data-aos="fade-up") Función informativa
           p.mt-3(data-aos="fade-up") Comprende el proceso de transmisión y recepción de la información, pero viéndolo como un proceso de interrelación. A través de ella, el individuo se apropia de la experiencia socio histórica de la humanidad.
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4(style="background-color:#FFE2C0;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema2/19.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema2/19.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
           h5.mt-4(data-aos="fade-up") Función afectivo - valorativa
           p.mt-3(data-aos="fade-up") Muy importante en el marco de la estabilidad emocional de los sujetos y su realización personal. A través de esta función, el hombre se forma una imagen de sí y de los demás.
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4(style="background-color:#C9E7FB;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema2/20.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema2/20.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
           h5.mt-4(data-aos="fade-up") Función reguladora
           p.mt-3(data-aos="fade-up") Por su intermedio se logra la retroalimentación que tiene lugar en todo el proceso comunicativo y sirve para que cada participante conozca el efecto que ocasiona su mensaje y para que pueda evaluarse a sí mismo.
 

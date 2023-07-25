@@ -51,7 +51,7 @@
           .p-4.h-100(style="background-color:#C7E8EA;")
             p.mb-0(data-aos="fade-up") Características de los participantes
         figure.text-center
-          img(src="@/assets/curso/tema5/1.svg" style="display:inline;max-width:50px;margin-bottom:-6px;")
+          img(src="@/assets/curso/tema5/1.svg" style="display:inline;max-width:50px;margin-bottom:-6px;" alt="Imagen decorativa")
       .p-4(style="background-color:#7FCBCB;")
         h5.mb-0.text-center(data-aos="fade-up")
       .row.mt-1
@@ -62,7 +62,7 @@
           .p-4.h-100(style="background-color:#C7E8EA;")
             p.mb-0(data-aos="fade-up") Secuencia de los sucesos
         figure.text-center
-          img(src="@/assets/curso/tema5/1.svg" style="display:inline;max-width:50px;margin-bottom:-6px;")
+          img(src="@/assets/curso/tema5/1.svg" style="display:inline;max-width:50px;margin-bottom:-6px;" alt="Imagen decorativa")
       .p-4(style="background-color:#7FCBCB;")
         h5.mb-0.text-center(data-aos="fade-up")
       .row.mt-1
@@ -118,35 +118,35 @@
         .row.col-lg-11.m-auto(titulo="1")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema5/2.svg')
+              img(src='@/assets/curso/tema5/2.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             h5 Definición y operacionalización de la encuesta
             p Definir objetivos, población y los recursos disponibles, tanto humanos, económicos, tecnológicos y seguridad, entre otros, definiendo a partir de allí su factibilidad (Parada & Moreno Garzón, 1999).
         .row.col-lg-11.m-auto(titulo="2")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema5/3.svg')
+              img(src='@/assets/curso/tema5/3.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             h5 Diseño del cuestionario de la encuesta
             p Redactar las preguntas y disponerlas ordenadamente, teniendo en cuenta las posibles respuestas que puedan dar los encuestados, evitando las preguntas que puedan dar pie a respuestas abiertas que son difíciles de tabular y analizar (Parada & Moreno Garzón, 1999).
         .row.col-lg-11.m-auto(titulo="3")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema5/4.svg')
+              img(src='@/assets/curso/tema5/4.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             h5 Diseño de la muestra
             p Definir a qué tipo de población se va a hacer la encuesta, definiendo claramente el espacio y tiempo en que se realizará, en caso de que se realice de la población de un territorio establecido, se definirá como censo (Parada & Moreno Garzón, 1999).
         .row.col-lg-11.m-auto(titulo="4")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema5/5.svg')
+              img(src='@/assets/curso/tema5/5.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             h5 Trabajo de campo de la muestra
             p Se debe hacer una prueba previa al cuestionario y aplicarlo a los encuestados (Parada & Moreno Garzón, 1999).
         .row.col-lg-11.m-auto(titulo="5")
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema5/6.svg')
+              img(src='@/assets/curso/tema5/6.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             h5 Registro de la encuesta
             p Constituir un libro código, digital o físico para consignar los datos obtenidos mediante el formulario, que permita la identificación clara de variables y cuyo diligenciamiento esté claramente definido y socializado con la totalidad de los encuestadores (Parada & Moreno Garzón, 1999).

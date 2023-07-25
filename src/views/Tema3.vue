@@ -23,7 +23,7 @@
           p.mt-3(data-aos="fade-up") De igual manera, establece la vivienda como espacio vital que debe cumplir con una serie de características para que brinde seguridad, protección, intimidad y contribuya al bienestar de cada una de las personas que la habitan. Estas son:
         .col-lg-4(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/1.png" data-aos="fade-left")
+            img(src="@/assets/curso/tema3/1.png" data-aos="fade-left" alt="Imagen decorativa")
     
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0
@@ -33,53 +33,53 @@
               p La vivienda debe estar situada en un terreno estable, retirada de cualquier riesgo natural que se pueda presentar en la zona, tales como deslizamientos de tierra, inundaciones y de los riesgos antrópicos tales como líneas de tensión, desechos industriales y otros.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/3.svg')
+                img(src='@/assets/curso/tema3/3.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Diseño y espacio")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Debe tener en cuenta los factores climáticos de la zona donde está construida, facilitar hábitos de higiene, tener buena ventilación e iluminación.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/4.svg')
+                img(src='@/assets/curso/tema3/4.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Materiales")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Deben garantizar que no haya agujeros en techos ni paredes, permitir fácil limpieza, impermeabilizar el agua lluvia y ser estables frente a las condiciones climatológicas.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/5.svg')
+                img(src='@/assets/curso/tema3/5.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Entorno")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Debe tener una infraestructura social básica que permita el desarrollo humano integral, puestos de salud, escuelas, zonas recreativas, culturales y libres de basuras.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/6.svg')
+                img(src='@/assets/curso/tema3/6.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Condiciones higiénico - sanitarias")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Las aguas lluvias y las aguas negras tienen desagües técnica y ambientalmente apropiados, la evacuación de excrementos es técnica y ambientalmente apropiada, los residuos se pueden manipular técnicamente dentro de la vivienda. 
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/7.svg')
+                img(src='@/assets/curso/tema3/7.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Uso de energía")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Se puede utilizar diferentes formas de energía dentro de la vivienda, si la cocina utiliza carbón o leña el humo no interfiere con la salud de los habitantes, en caso de ser a gas no se presenta hollín y la llama es azul.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/8.svg')
+                img(src='@/assets/curso/tema3/8.svg' alt="Imagen decorativa")
           .row.col-lg-11.m-auto(titulo="Espacio social")
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Dispone de equipos inmuebles mínimos que permite el desarrollo integral del humano, los padres habitan en cuarto diferente a los hijos, si hay una actividad productiva dentro de la vivienda debe estar en una zona diferente al lugar donde se duerme. 
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema3/9.svg')
+                img(src='@/assets/curso/tema3/9.svg' alt="Imagen decorativa")
       .col-lg-4
         .h-100(style="background-color:#DFE9F2;")
           figure.bg-white
-            img(src="@/assets/curso/tema3/2.svg" data-aos="fade-left")
+            img(src="@/assets/curso/tema3/2.svg" data-aos="fade-left" alt="Imagen decorativa")
     
     .col-lg-10.m-auto.mt-5
       .tarjeta.color-primario.p-4.p-md-5(style="background-color:#FFECD5;")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema3/26.svg")
+            img(src="@/assets/curso/tema3/26.svg" alt="Imagen decorativa")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -122,31 +122,31 @@
             p Se deben integrar las políticas de nivel nacional a las instituciones educativas con el fin de generar espacios más saludables, ya que se van a manejar de forma adecuada los residuos sólidos peligrosos y no peligrosos, se realizará vigilancia de la calidad de agua y se permitirá la participación ciudadana en diferentes procesos por mencionar algunos ejemplos de las políticas actuales a nivel nacional.
           .col-md-6.col-lg-4
             figure
-              img(src='@/assets/curso/tema3/10.png')
+              img(src='@/assets/curso/tema3/10.png' alt="Imagen decorativa")
         .row.col-lg-11.m-auto(titulo="Ambientes que favorecen el desarrollo humano")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Se deben tener en cuenta los espacios físicos, sociales y ambientales para el mejoramiento de la calidad en la educación, el conjunto de estos espacios se conoce como ambiente. Un ambiente saludable minimiza la probabilidad que la comunidad sufra estrés, enfermedades por factores ambientales y se mantenga segura y protegida.
           .col-md-6.col-lg-4
             figure
-              img(src='@/assets/curso/tema3/27.png')
+              img(src='@/assets/curso/tema3/27.png' alt="Imagen decorativa")
         .row.col-lg-11.m-auto(titulo="Gestión de Servicios sociales para el desarrollo humano")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Se establecen los actores sociales del entorno educativo como seres multidimensionales que no solo deben cumplir con las labores académicas, sino que tienen un papel en la sociedad, se forman con integralidad y desarrollan sus competencias mejorando su calidad de vida. Los servicios sociales dentro de los entornos educativos permiten potenciar estas habilidades blandas en la comunidad educativa, permitiendo el desarrollo intra e interpersonal.
           .col-md-6.col-lg-4
             figure
-              img(src='@/assets/curso/tema3/11.png')
+              img(src='@/assets/curso/tema3/11.png' alt="Imagen decorativa")
         .row.col-lg-11.m-auto(titulo="Participación social para el desarrollo humano ")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Propiciar la participación de todos los miembros en todas las etapas de los proyectos educativos, desde el diagnóstico, el diseño de planes de trabajo, la implementación y la evaluación se convierte en un protector para el desarrollo y la calidad de vida de los sujetos.
           .col-md-6.col-lg-4
             figure
-              img(src='@/assets/curso/tema3/12.png')
+              img(src='@/assets/curso/tema3/12.png' alt="Imagen decorativa")
         .row.col-lg-11.m-auto(titulo="Gestión del conocimiento para la promoción del desarrollo humano ")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Promover la investigación, difusión, adaptación y adopción de productos, procesos, tecnologías, estrategias, formas de organización social o de intervenciones que ofrecen soluciones efectivas, eficientes, eficaces y sostenibles, genera un ambiente saludable para las necesidades de la institución educativa y la comunidad.
           .col-md-6.col-lg-4
             figure
-              img(src='@/assets/curso/tema3/13.png')
+              img(src='@/assets/curso/tema3/13.png' alt="Imagen decorativa")
     
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Entornos comunitarios saludables
@@ -174,12 +174,12 @@
     
     .col-lg-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema3/15.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema3/15.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
       
       .tarjeta.color-primario.p-4.p-md-5.mt-5(style="background: linear-gradient(180deg, rgba(48,118,182,1) 0%, rgba(129,212,250,1) 100%);")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema3/16.svg")
+            img(src="@/assets/curso/tema3/16.svg" alt="Imagen decorativa")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -208,7 +208,7 @@
       .tarjeta.color-primario.p-4.p-md-5(style="background: linear-gradient(180deg, rgba(48,118,182,1) 0%, rgba(129,212,250,1) 100%);")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema3/16.svg")
+            img(src="@/assets/curso/tema3/16.svg" alt="Imagen decorativa")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -266,13 +266,13 @@
           .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
             h5(data-aos="fade-right") Educación y divulgación
             p.mb-0(data-aos="fade-right") Se deben generar procesos donde las personas del común conozcan los conceptos de la producción sostenible, educar a los consumidores para que prefieran este tipo de productos y trabajar con los empresarios, consultores y demás técnicos para un conocimiento no solamente básico sino también especializado en el tema.
-          .col-md-6.col-lg-4(style="place-self:center;")
+          .col-md-6.col-lg-4(style="place-self:center;" alt="Imagen decorativa")
             figure
               img(src='@/assets/curso/tema3/17.svg' data-aos="fade-left")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema3/18.svg' data-aos="fade-right")
+              img(src='@/assets/curso/tema3/18.svg' data-aos="fade-right" alt="Imagen decorativa")
           .col-md-6.col-lg-8(style="place-self:center;")
             h5.text-start(data-aos="fade-left") Asistencia técnica ambiental
             p.mb-0.text-start(data-aos="fade-left") Desde las instituciones gubernamentales se deben proponer una serie de medidas que promuevan en las empresas la solución de los problemas, a través de medidas más preventivas que correctivas. 
@@ -282,11 +282,11 @@
             p.mb-0(data-aos="fade-right") Se debe asegurar un adecuado flujo de información y soporte a la transferencia de las mejores tecnologías disponibles y prácticas empresariales, así como a la adecuada apropiación del “#[em know-how]” o el “saber hacer”.
           .col-md-6.col-lg-4(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema3/19.svg' data-aos="fade-left")
+              img(src='@/assets/curso/tema3/19.svg' data-aos="fade-left" alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema3/20.svg' data-aos="fade-right")
+              img(src='@/assets/curso/tema3/20.svg' data-aos="fade-right" alt="Imagen decorativa")
           .col-md-6.col-lg-8(style="place-self:center;")
             h5.text-start(data-aos="fade-left") Fomento de investigación
             p.mb-0.text-start(data-aos="fade-left") Se deben incentivar las actividades de investigación en producción y operación sostenible, además del apoyo económico se debe acompañar en la elaboración de estudios y proyectos piloto con componentes de investigación aplicada.
@@ -305,35 +305,35 @@
               p.mt-3 El abastecimiento de agua, aire, alimentos, energía y vivienda depende de ecosistemas, los cuales deben ser vigilados. En caso de fallar, por ejemplo, el abastecimiento de agua el PIB de una ciudad puede ir a cero.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema3/21.svg')
+                img(src='@/assets/curso/tema3/21.svg' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas para productividad 
               p.mt-3 Son aquellos donde se desarrollan actividades económicas tales como la agricultura, ganadería, minería, entre otras. Si bien, es frecuente la referencia de capital natural, en los análisis económicos se debe ir más allá de la valorización y priorizar la salud del ecosistema, ya que de allí depende el abastecimiento de agua, energía, materias primas, etc.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema3/22.png')
+                img(src='@/assets/curso/tema3/22.png' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas para prevención de riesgos 
               p.mt-3 Deslizamientos, inundaciones, terremotos, incendios y otras catástrofes naturales se pueden presentar en diferentes lugares, sin embargo, se han desarrollado mecanismos naturales reguladores de tales catástrofes. Por citar un ejemplo, los bosques tienen la capacidad de amortiguar las crecientes e inundaciones a través de su manejo del agua, al tiempo que disminuyen los riesgos de erosión y deslizamientos. Mantener la salud de estos ecosistemas minimizando la afectación que puede hacer el hombre, permite maximizar la capacidad preventiva frente al desastre.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema3/23.svg')
+                img(src='@/assets/curso/tema3/23.svg' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas en relaciones políticas y sociales
               p.mt-3 La salud y mantenimiento de los ecosistemas cobra creciente importancia en las relaciones internacionales, en la medida que se reconocen como actores fundamentales en la minimización de impactos ambientales de carácter global como el cambio climático o el deterioro de la capa de ozono.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema3/24.svg')
+                img(src='@/assets/curso/tema3/24.svg' alt="Imagen decorativa")
           .row
             .col-md-6.mb-4.mb-md-0
               h5 Ecosistemas para equilibrio ecológico
               p.mt-3 La salud de estos ecosistemas permite tener control en la regulación hídrica, mantenimiento de diversidad, riqueza biológica, lo que garantiza seguridad alimentaria y control del clima.
             .col-md-6
               figure
-                img(src='@/assets/curso/tema3/25.svg')
+                img(src='@/assets/curso/tema3/25.svg' alt="Imagen decorativa")
 
 
 

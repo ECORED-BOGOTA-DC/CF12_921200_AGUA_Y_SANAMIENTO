@@ -88,7 +88,7 @@
                 | El desarrollo de un modelo de incentivos sanitarios que premien las buenas prácticas y recompensen la búsqueda de la excelencia.
           .col-md-6
             figure
-              img(src="@/assets/curso/tema6/1.svg")
+              img(src="@/assets/curso/tema6/1.svg" alt="Imagen decorativa")
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Fomento de conciencia sanitaria y autorregulación
@@ -102,7 +102,7 @@
                 | La generación de mecanismos de participación, empoderamiento y apropiación de sentido de corresponsabilidad en la gestión de la seguridad sanitaria.
           .col-md-6
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -114,25 +114,25 @@
     SlyderF.slyderf2.mt-5(columnas="col-lg-4")
       .p-4(style="background-color:#D5E3F0;border-radius:10px;")
         figure
-          img(src="@/assets/curso/tema6/3.svg")
+          img(src="@/assets/curso/tema6/3.svg" alt="Imagen decorativa")
         .p-4.mt-3.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFA031;border-radius:14px;min-height:100px;")
           h5.mb-0.text-white.text-center.w-100 Gestión integral
         p.mt-4.text-center Todo lo concerniente a ejecución, monitoreo y evaluación de los planes operativos en términos de metas y resultados conseguidos en los tiempos establecidos.
       .p-4(style="background-color:#D5E3F0;border-radius:10px;")
         figure
-          img(src="@/assets/curso/tema6/4.svg")
+          img(src="@/assets/curso/tema6/4.svg" alt="Imagen decorativa")
         .p-4.mt-3.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFA031;border-radius:14px;min-height:100px;")
           h5.mb-0.text-white.text-center.w-100 Procesos de articulación y coordinación
         p.mt-4.text-center Establecimiento de prioridades de cooperación en términos de impacto, sostenibilidad, innovación, replicabilidad/adaptabilidad, capacidad de oferente, mecanismos y modalidades formales de cooperación. 
       .p-4(style="background-color:#D5E3F0;border-radius:10px;")
         figure
-          img(src="@/assets/curso/tema6/5.svg")
+          img(src="@/assets/curso/tema6/5.svg" alt="Imagen decorativa")
         .p-4.mt-3.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFA031;border-radius:14px;min-height:100px;")
           h5.mb-0.text-white.text-center.w-100 Gestión del conocimiento aplicado a políticas públicas de seguridad sanitaria
         p.mt-4.text-center Definición de políticas, estrategias y métodos de evaluación y comunicación de riesgo, mecanismos de participación social, debates y toma de decisiones para la intervención de los riesgos sanitarios. 
       .p-4(style="background-color:#D5E3F0;border-radius:10px;")
         figure
-          img(src="@/assets/curso/tema6/6.svg")
+          img(src="@/assets/curso/tema6/6.svg" alt="Imagen decorativa")
         .p-4.mt-3.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFA031;border-radius:14px;min-height:100px;")
           h5.mb-0.text-white.text-center.w-100 Procesos de apoyo
         p.mt-4.text-center Son todos aquellos relacionados con la gestión de los capitales necesarios para la organización, institucionalización y funcionamiento del modelo que incluyen el capital humano, físico, tecnológico y financiero.

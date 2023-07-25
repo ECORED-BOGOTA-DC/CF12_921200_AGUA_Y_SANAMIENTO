@@ -12,7 +12,7 @@
         p(data-aos="fade-up") A partir del macro proceso de aseguramiento de las cadenas productivas y teniendo en cuenta dentro de este la importancia del componente de promoción de las buenas prácticas como una medida de prevención en salud pública, surge la necesidad de establecer medidas de prevención de contaminación en la industria alimentaria, por medio de la implementación de sistemas de aseguramiento de la calidad en toda la cadena productiva, estos deben enfocarse en garantizar la inocuidad de los alimentos, de este modo se puede garantizar la máxima seguridad posible de los mismos. Las políticas y actividades que persiguen deberán abarcar toda la cadena alimenticia, desde la producción al consumo.
       .col-lg-4(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema7/1.png" data-aos="fade-left")
+          img(src="@/assets/curso/tema7/1.png" data-aos="fade-left" alt="Imagen decorativa")
     
     Separador.mt-5
     
@@ -121,43 +121,43 @@
         .row.col-lg-11.m-auto(titulo="Principio 1")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/2.png')
+              img(src='@/assets/curso/tema7/2.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Análisis de peligros e identificar las medidas preventivas respectivas. 
         .row.col-lg-11.m-auto(titulo="Principio 2")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/3.png')
+              img(src='@/assets/curso/tema7/3.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Determinar los puntos críticos de control (PCC) que según el Codex Alimentarius es: una etapa donde se puede aplicar un control y que sea esencial para evitar o eliminar un peligro a la inocuidad del alimento.
         .row.col-lg-11.m-auto(titulo="Principio 3")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/4.png')
+              img(src='@/assets/curso/tema7/4.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Establecer límites críticos.
         .row.col-lg-11.m-auto(titulo="Principio 4")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/5.png')
+              img(src='@/assets/curso/tema7/5.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Establecer un sistema de control para monitorear los PCC.
         .row.col-lg-11.m-auto(titulo="Principio 5")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/6.png')
+              img(src='@/assets/curso/tema7/6.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Establecer las acciones correctivas a ser tomadas, cuando el monitoreo indique que un determinado PCC no está bajo control.
         .row.col-lg-11.m-auto(titulo="Principio 6")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/7.png')
+              img(src='@/assets/curso/tema7/7.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Establecer procedimientos de verificación para confirmar si el sistema HACCP está funcionando de manera eficaz.
         .row.col-lg-11.m-auto(titulo="Principio 7")
           .col-md-6.col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema7/8.png')
+              img(src='@/assets/curso/tema7/8.png' alt="Imagen decorativa")
           .col-md-6.col-lg-8
             p Establecer documentación para todos los procedimientos y registros apropiados a esos principios y su aplicación.
     
@@ -165,7 +165,7 @@
       .tarjeta.color-primario.p-4.p-md-5(style="background: linear-gradient(180deg, rgba(48,118,182,1) 0%, rgba(129,212,250,1) 100%);")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema3/16.svg")
+            img(src="@/assets/curso/tema3/16.svg" alt="Imagen decorativa")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -226,7 +226,7 @@
       .tarjeta.color-primario.p-4.p-md-5(style="background: linear-gradient(180deg, rgba(48,118,182,1) 0%, rgba(129,212,250,1) 100%);")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema3/16.svg")
+            img(src="@/assets/curso/tema3/16.svg" alt="Imagen decorativa")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0

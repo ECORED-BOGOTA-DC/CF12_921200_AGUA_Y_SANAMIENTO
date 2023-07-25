@@ -40,19 +40,19 @@
       .row(style="position:relative;")
         .d-none.d-md-block(style="position:absolute;width:100%;top:-30px;")
           figure.text-center
-            img(src="@/assets/curso/tema4/1.svg" style="max-width:150px;display:inline;" data-aos="fade-down")
+            img(src="@/assets/curso/tema4/1.svg" style="max-width:150px;display:inline;" data-aos="fade-down" alt="Imagen decorativa")
         .d-none.d-md-block(style="position:absolute;width:100%;top:30%;")
           figure.text-center
-            img(src="@/assets/curso/tema4/2.svg" style="max-width:180px;display:inline;" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/2.svg" style="max-width:180px;display:inline;" data-aos="zoom-in-up" alt="Imagen decorativa")
         .d-none.d-md-block(style="position:absolute;width:100%;bottom:-30px;")
           figure.text-center
-            img(src="@/assets/curso/tema4/3.svg" style="max-width:150px;display:inline;" data-aos="fade-up")
+            img(src="@/assets/curso/tema4/3.svg" style="max-width:150px;display:inline;" data-aos="fade-up" alt="Imagen decorativa")
         .col-md.mb-4.mb-md-0
           .h-100.p-4.p-md-5.d-flex.align-items-center.align-content-center.flex-wrap(style="background-color:#D5E3F0;border-radius:20px;min-height:400px;")
             p.mb-0.w-100.text-center.pe-0.pe-md-5(data-aos="fade-right") Poner tapa al tanque para evitar la proliferación de zancudos en el agua.
         .d-md-none.mb-4
           figure.text-center
-            img(src="@/assets/curso/tema4/2.svg" style="max-width:200px;display:inline;")
+            img(src="@/assets/curso/tema4/2.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
         .col-md.mb-4.mb-md-0
           .h-100.p-4.p-md-5.d-flex.align-items-center.align-content-center.flex-wrap(style="background-color:#D5E3F0;border-radius:20px;min-height:400px;")
             p.mb-0.w-100.text-center.ps-0.ps-lg-5(data-aos="fade-left") Vaciar el contenido de agua de los tanques para evitar la proliferación de los zancudos.

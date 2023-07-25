@@ -60,13 +60,13 @@
       .col-lg.pe-0
         .h-100.p-4.p-md-5(style="background-color:#FFA031;border-radius:20px 0px 0px 20px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/1.svg" data-aos="zoom-in-up" style="max-width:150px;display:inline;")
+            img(src="@/assets/curso/tema1/1.svg" data-aos="zoom-in-up" style="max-width:150px;display:inline;" alt="Imagen decorativa")
           h3.mt-4.text-white.text-center(data-aos="fade-up") Factores protectores de amplio espectro
           p.mt-3.text-white.text-center(data-aos="fade-up") Son aquellos que indican que la persona tiene mayores condiciones y conductas protectoras que favorecen el no sufrir de daños o riesgos a su salud, por ejemplo, el tener una vida activa en ejercicio, una dieta saludable.
       .col-lg.ps-0
         .h-100.p-4.p-md-5(style="background-color:#4DB1F0;border-radius:0px 20px 20px 0px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" style="max-width:150px;display:inline;")
+            img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" style="max-width:150px;display:inline;" alt="Imagen decorativa")
           h3.mt-4.text-white.text-center(data-aos="fade-up") Factores protectores específicos
           p.mt-3.text-white.text-center(data-aos="fade-up") Actividades que generan disminución de ciertas conductas de riesgo puntuales, por ejemplo, hacer una dieta específica o reducir el consumo total o parcial de algún alimento o bebida.
 
