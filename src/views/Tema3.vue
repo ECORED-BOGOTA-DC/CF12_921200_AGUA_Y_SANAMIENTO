@@ -129,7 +129,7 @@
           .col-md-6.col-lg-4
             figure
               img(src='@/assets/curso/tema3/27.png' alt="Imagen decorativa")
-        .row.col-lg-11.m-auto(titulo="Gestión de Servicios sociales para el desarrollo humano")
+        .row.col-lg-11.m-auto(titulo="Gestión de servicios sociales para el desarrollo humano")
           .col-md-6.col-lg-8.mb-4.mb-md-0
             p Se establecen los actores sociales del entorno educativo como seres multidimensionales que no solo deben cumplir con las labores académicas, sino que tienen un papel en la sociedad, se forman con integralidad y desarrollan sus competencias mejorando su calidad de vida. Los servicios sociales dentro de los entornos educativos permiten potenciar estas habilidades blandas en la comunidad educativa, permitiendo el desarrollo intra e interpersonal.
           .col-md-6.col-lg-4
@@ -150,7 +150,7 @@
     
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Entornos comunitarios saludables
-      p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento Plan Decenal De Salud Pública 2012 – 2021, establece que el entorno comunitario está constituido por un conjunto de escenarios en los cuales los individuos y los grupos sociales ejercen su autonomía funcional y política, enmarcados en relaciones sociales que pueden proteger o deteriorar su salud y que han sido construidas históricamente.
+      p.mt-4(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento #[em Plan decenal de salud pública 2012 – 2021], establece que el entorno comunitario está constituido por un conjunto de escenarios en los cuales los individuos y los grupos sociales ejercen su autonomía funcional y política, enmarcados en relaciones sociales que pueden proteger o deteriorar su salud y que han sido construidas históricamente.
       p.mt-3(data-aos="fade-up") Los procesos de concentración urbana de la población ejercen una presión sobre la infraestructura de los municipios incluyendo disponibilidad de servicios públicos, transporte, vivienda, educación, espacios recreativos, trabajo y el equipamiento en salud, que afectan la salud y calidad de vida de la población. Para tener un entorno comunitario saludable es importante cumplir con varios enfoques que están relacionados en el marco de la Política de Atención Integral en Salud, estos son:
       ul.lista-ul.ps-0.ps-md-5.mb-0.mt-4
         li.d-flex.flex-wrap(data-aos="fade-up")
@@ -294,7 +294,7 @@
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Ecosistemas estratégicos saludables
       p.mt-4.mb-0(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento plan decenal de salud pública 2012 - 2021 establece que la mayor parte del territorio nacional ha sido sometida a usos no sostenibles, que han dado como resultado una disminución de la capacidad productiva de los ecosistemas por destrucción de biodiversidad, erosión, sedimentación, contaminación de suelos y aguas y afectación del balance hídrico de las cuencas, entre otras razones. En conjunto estos procesos han tenido un impacto importante en la salud pública de los territorios; por lo que requiere una respuesta intersectorial, mediante políticas y acciones dirigidas a prevenir el deterioro de los ecosistemas de mayor valor por sus bienes y servicios ecológicos, indispensables para el desarrollo nacional, regional y local; proteger la biodiversidad y la diversidad cultural. De manera específica se incluyen en estos ecosistemas los bosques, páramos, cuencas hídricas, humedales, manglares y mares.
-      p.mt-4.mb-0(data-aos="fade-up") De acuerdo con Márquez, G. (2002), en su documento ecosistemas estratégicos, bienestar y desarrollo, estos son :
+      p.mt-4.mb-0(data-aos="fade-up") De acuerdo con Márquez, G. (2002), en su documento #[em Ecosistemas estratégicos, bienestar y desarrollo].
 
     .tarjeta.tarjeta--azul.p-4.pt-5.pb-5.mb-5.mt-5(style="background-color:#DFEAF3;")
       .col-lg-11.m-auto

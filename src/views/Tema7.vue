@@ -19,7 +19,7 @@
     .titulo-segundo
       h2#t_7_1 7.1  Buenas prácticas agrícolas
     
-    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla mis buenas prácticas agrícolas, son las prácticas aplicadas en las unidades productivas desde la planeación del cultivo hasta la cosecha, el empaque y transporte del alimento, con el fin de asegurar su inocuidad, seguridad del medio ambiente y bienestar de los trabajadores, en estas se verifican los siguientes requisitos:
+    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla #[em Mis buenas prácticas agrícolas], son las prácticas aplicadas en las unidades productivas desde la planeación del cultivo hasta la cosecha, el empaque y transporte del alimento, con el fin de asegurar su inocuidad, seguridad del medio ambiente y bienestar de los trabajadores, en estas se verifican los siguientes requisitos:
 
     ul.lista-ul.mt-4.ps-0.ps-md-4.mb-0
       li.d-flex(data-aos="fade-up")
@@ -60,7 +60,7 @@
     .titulo-segundo
       h2#t_7_2 7.2  Buenas prácticas de manufactura
     
-    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla Mis Buenas Prácticas Agrícolas hacen referencia a las BPM como aquellas prácticas preventivas utilizadas en la preparación, manipulación, almacenamiento, transporte y distribución de alimentos para asegurar su inocuidad en el consumo humano.
+    p(data-aos="fade-up") De acuerdo con el Ministerio de Agricultura y Desarrollo Rural (2009), en su cartilla #[em Mis buenas prácticas agrícolas] hacen referencia a las BPM como aquellas prácticas preventivas utilizadas en la preparación, manipulación, almacenamiento, transporte y distribución de alimentos para asegurar su inocuidad en el consumo humano.
     p.mt-4(data-aos="fade-up") En Colombia las buenas prácticas de manufactura para garantizar las condiciones higiénicas en la manipulación preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano definidas por el Decreto 3075 de 1997, modificado parcialmente por la resolución 2674 de 2013 y su cumplimiento es realizado por la autoridad sanitaria competente como se habló en capítulos anteriores.
 
     p.mt-5(data-aos="fade-up") Las buenas prácticas de manufactura incluyen la revisión de las condiciones higiénico sanitarias óptimas en: 

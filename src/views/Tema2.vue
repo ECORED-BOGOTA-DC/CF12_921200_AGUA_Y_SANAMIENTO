@@ -9,7 +9,7 @@
     
     .row.col-lg-10.m-auto
       .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-        p(data-aos="fade-up") La importancia de la comunicación social en los procesos de intervención en salud pública es muy grande, porque, si se transmite información de una manera errónea, la población que la recibe puede transformar los mensajes y realizar acciones totalmente adversas a los objetivos y metas establecidos. Se invita a ver el siguiente video animado que lo contextualiza en el tema.
+        p(data-aos="fade-up") La importancia de la comunicación social en los procesos de intervención en salud pública es muy grande, porque, si se transmite información de una manera errónea, la población que la recibe puede transformar los mensajes y realizar acciones totalmente adversas a los objetivos y metas establecidos.
         p.mt-4(data-aos="fade-up") La comunicación social es un proceso de socialización o transmisión de información a un grupo de personas, su objetivo es que el mensaje transmitido sea apropiado por el receptor.
       .col-lg-5(style="place-self:center;")
         figure
@@ -164,9 +164,9 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_6 2.6  Medios de comunicación en la salud
+      h2#t_2_6 2.6  Medios de comunicación en la promoción de la salud
     
-    p(data-aos="fade-up") De acuerdo con Moncada, A (2018), en su artículo La Promoción De La Salud Y Los Medios De Comunicación describe que el papel que juegan los medios de comunicación en la promoción de la salud es una cuestión que se ha contemplado desde 1986. En la carta de Ottawa se definió a la promoción de la salud como “el proceso de facultar a las personas para que aumenten el control que tienen sobre su salud y para mejorarla”, estableciendo, además, que los medios de comunicación son actores claves para la promoción de la salud.
+    p(data-aos="fade-up") De acuerdo con Moncada, A (2018), en su artículo #[em La promoción de la salud y los medios de comunicación] describe que el papel que juegan los medios de comunicación en la promoción de la salud es una cuestión que se ha contemplado desde 1986. En la carta de Ottawa se definió a la promoción de la salud como “el proceso de facultar a las personas para que aumenten el control que tienen sobre su salud y para mejorarla”, estableciendo, además, que los medios de comunicación son actores claves para la promoción de la salud.
     p.mt-4(data-aos="fade-up") La importancia de los medios usados para comunicar temas relacionados con salud radica en que lograr que el mensaje emitido sea apropiado y captado por el receptor. Estos medios pueden ser:
 
     .col-lg-8.m-auto.mt-5
@@ -195,7 +195,7 @@
         div(numero="4" titulo="Televisión")
           .row
             .col-lg-9.mb-4.mb-lg-0
-              p.mb-0 Considerado uno de los más importantes, el problema fundamental es que es un medio unidireccional luego no se recibe retroalimentación, pero es considerado el medio de mayor importancia para la parte sanitaria y de salud pública.
+              p.mb-0 Considerado uno de los más importantes, el problema fundamental es que es un medio unidireccional, luego no se recibe retroalimentación, pero es considerado el medio de mayor importancia para la parte sanitaria y de salud pública.
             .col-lg-3
               figure.text-center
                 img(src="@/assets/curso/tema2/16.svg" style="max-width:105px;display:inline;" alt="Imagen decorativa")

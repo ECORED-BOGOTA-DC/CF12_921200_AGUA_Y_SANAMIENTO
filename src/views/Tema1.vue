@@ -23,7 +23,7 @@
         .bloque-texto-d__texto.mb-2.d-flex
           i.fas.fa-quote-left(style="color:#00BCD4;" data-aos="fade-right")
           div
-            p(data-aos="fade-up") De acuerdo con González C y Agudo T (2003), en su documento Factores De Riesgo: Aspectos Generales, Conceptos, Organización Y Práctica Clínica, describen que teóricamente un factor puede modificar la probabilidad de una enfermedad tanto aumentándole como disminuyéndola, sin embargo, tradicionalmente se reserva el uso de ese término para aquellos que aumentan la probabilidad de enfermar, mientras que los factores que la disminuyen son conocidos como protectores. 
+            p(data-aos="fade-up") De acuerdo con González C y Agudo T (2003), en su documento #[em Factores de riesgo: aspectos generales, conceptos, organización y práctica clínica], describen que teóricamente un factor puede modificar la probabilidad de una enfermedad tanto aumentándole como disminuyéndola, sin embargo, tradicionalmente se reserva el uso de ese término para aquellos que aumentan la probabilidad de enfermar, mientras que los factores que la disminuyen son conocidos como protectores. 
             .text-end.w-100.d-block
               i.fas.fa-quote-right(style="color:#00BCD4;align-self:self-end;" data-aos="fade-left")
     
