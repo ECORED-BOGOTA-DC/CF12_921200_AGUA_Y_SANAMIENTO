@@ -83,8 +83,8 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p.fw-bold.mb-1 Manual de vivienda saludable
-                p.text-small.mb-0 Si desea consultar diferentes factores que interfieren en una vivienda saludable consulte el manual de vivienda saludable del Ministerio de Salud y Protección Social en las páginas 39 a la 117, que se encuentra en el material complementario. 
+                p.fw-bold.mb-1 Manual Educativo Nacional Hacía una vivienda saludable que viva mi hogar
+                p.text-small.mb-0 Si desea consultar diferentes factores que interfieren en una vivienda saludable consulte el Manual Educativo Nacional Hacía una vivienda saludable que viva mi hogar del Ministerio de Salud y Protección Social en las páginas 39 a la 117, que se encuentra en el material complementario. 
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/manual-educativo-nacional-vivienda-saludable.pdf" target="_blank")
                   span Descargar
