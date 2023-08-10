@@ -11,7 +11,7 @@
 
     h3.subtitulo_cf(data-aos="fade-up") Intervención a comunidades
 
-    p.mt-4(data-aos="fade-up") Busca el mejoramiento de la calidad de vida y salud de la población requiere que se actúe sobre los determinantes sociales de la salud, a través de procesos participativos organizados alrededor de entornos específicos (Ministerio de Salud y Protección Social, 2013). Razón por la cual la ejecución operativa de este componente se realizará a través de los siguientes programas:
+    p.mt-4(data-aos="fade-up") Busca el mejoramiento de la calidad de vida y salud de la población, requiere que se actúe sobre los determinantes sociales de la salud, a través de procesos participativos organizados alrededor de entornos específicos (Ministerio de Salud y Protección Social, 2013). Razón por la cual la ejecución operativa de este componente se realizará a través de los siguientes programas:
 
     .p-4.mt-5(style="background-color:#DBEFFC;")
       .row
@@ -294,7 +294,7 @@
     .p-4.mt-5(style="background-color:#DBEFFC;")
       h5(data-aos="fade-up") #[i.fas.fa-check-circle(style="color:#3076B6;")] Ecosistemas estratégicos saludables
       p.mt-4.mb-0(data-aos="fade-up") El Ministerio de Salud y Protección Social (2013), en su documento plan decenal de salud pública 2012 - 2021 establece que la mayor parte del territorio nacional ha sido sometida a usos no sostenibles, que han dado como resultado una disminución de la capacidad productiva de los ecosistemas por destrucción de biodiversidad, erosión, sedimentación, contaminación de suelos y aguas y afectación del balance hídrico de las cuencas, entre otras razones. En conjunto estos procesos han tenido un impacto importante en la salud pública de los territorios; por lo que requiere una respuesta intersectorial, mediante políticas y acciones dirigidas a prevenir el deterioro de los ecosistemas de mayor valor por sus bienes y servicios ecológicos, indispensables para el desarrollo nacional, regional y local; proteger la biodiversidad y la diversidad cultural. De manera específica se incluyen en estos ecosistemas los bosques, páramos, cuencas hídricas, humedales, manglares y mares.
-      p.mt-4.mb-0(data-aos="fade-up") De acuerdo con Márquez, G. (2002), en su documento #[em Ecosistemas estratégicos, bienestar y desarrollo].
+      p.mt-4.mb-0(data-aos="fade-up") De acuerdo con Márquez, G. (2002), en su documento #[em Ecosistemas estratégicos, bienestar y desarrollo], estos son:
 
     .tarjeta.tarjeta--azul.p-4.pt-5.pb-5.mb-5.mt-5(style="background-color:#DFEAF3;")
       .col-lg-11.m-auto

@@ -106,7 +106,7 @@
         i.lista-ul__vineta
         | Almacenamiento, distribución, transporte y comercialización. 
 
-    p.mt-5(data-aos="fade-up") Regresando al ejemplo del plátano una vez cosechado si se quisiera transformar en otro producto se haría referencia a los análisis de peligros y puntos de control críticos (HACCP por sus siglas en inglés) que se encuentra especificado en el siguiente tema.
+    p.mt-5(data-aos="fade-up") Regresando al ejemplo del plátano una vez cosechado, si se quisiera transformar en otro producto, se haría referencia a los análisis de peligros y puntos de control críticos (HACCP por sus siglas en inglés) que se encuentra especificado en el siguiente tema.
 
     Separador.mt-5
 
@@ -185,7 +185,7 @@
 
     h3.mt-5(data-aos="fade-up") Buenas Prácticas Sanitarias (BPS)
 
-    p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (2016), en su documento protocolo Autocontrol Persona Prestadora Del Servicio Público De Acueducto Y Los Procesos De Supervisión Por Parte De La Autoridad Sanitaria, las BPS son los principios básicos y prácticas operativas generales de higiene para el suministro y distribución del agua para consumo humano, con el objeto de identificar los riesgos que pueda presentar la infraestructura, de conformidad con el Decreto 1575 de 2007.
+    p.mt-4(data-aos="fade-up") De acuerdo con el Ministerio de Salud y Protección Social (2016), en su documento #[em protocolo autocontrol persona prestadora del servicio público de acueducto y los procesos de supervisión por parte de la autoridad sanitaria], las BPS son los principios básicos y prácticas operativas generales de higiene para el suministro y distribución del agua para consumo humano, con el objeto de identificar los riesgos que pueda presentar la infraestructura, de conformidad con el Decreto 1575 de 2007.
     p.mt-3(data-aos="fade-up") Luego en este aspecto se deben encontrar: 
 
     ul.lista-ul.mt-4.ps-0.ps-md-4.mb-0

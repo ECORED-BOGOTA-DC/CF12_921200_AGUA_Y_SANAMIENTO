@@ -27,7 +27,7 @@
             .text-end.w-100.d-block
               i.fas.fa-quote-right(style="color:#00BCD4;align-self:self-end;" data-aos="fade-left")
     
-    p.mt-5(data-aos="fade-up") Dentro de las variables a considerar se encuentran de acuerdo con González C y Agudo T (2003) en su documento Factores De Riesgo, los siguientes aspectos generales:
+    p.mt-5(data-aos="fade-up") Dentro de las variables a considerar se encuentran, de acuerdo con González C y Agudo T (2003) en su documento Factores De Riesgo, los siguientes aspectos generales:
 
     ol.lista-ol.mt-4
       li(data-aos="fade-up")

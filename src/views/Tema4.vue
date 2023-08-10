@@ -33,7 +33,7 @@
       li.d-flex.flex-wrap(data-aos="fade-up")
         i.fas.fa-circle(style="color:#008B8A;")
         p.fw-bold Exposición
-        p.w-100 Es el tiempo en que la vivienda está en una existencia relacionada entre la vulnerabilidad y la amenaza. Por ejemplo, una vivienda que almacena agua en tanques sin tapa se encuentra expuesta al riesgo biológico, ya que los zancudos pueden proliferar con gran facilidad. Estará expuesta todo el tiempo ya, que se unieron vulnerabilidad (no tener tapa en el tanque) y amenaza (zancudos portadores de enfermedades) se podría reducir la exposición de la vivienda a dos alternativas:
+        p.w-100 Es el tiempo en que la vivienda está en una existencia relacionada entre la vulnerabilidad y la amenaza. Por ejemplo, una vivienda que almacena agua en tanques sin tapa se encuentra expuesta al riesgo biológico, ya que los zancudos pueden proliferar con gran facilidad. Estará expuesta todo el tiempo pues se unieron vulnerabilidad (no tener tapa en el tanque) y amenaza (zancudos portadores de enfermedades); se podría reducir la exposición de la vivienda a dos alternativas:
     
     br
     .col-lg-8.mt-5.m-auto

@@ -34,7 +34,7 @@
       .col-lg-2.ps-0.d-none.d-lg-block(style="place-self:center;")
         .arrow-right(data-aos="fade-left")
   
-    p.mt-5(data-aos="fade-up") A continuación se presentan los instrumentos más utilizados para la recolección de información para el sistema de salud pública, esto es:
+    p.mt-5(data-aos="fade-up") A continuación, se presentan los instrumentos más utilizados para la recolección de información para el sistema de salud pública, esto es:
 
     h3.subtitulo_cf(data-aos="fade-up") Observación etnográfica
 
@@ -94,7 +94,7 @@
         | 	Dar a la persona entrevistada el tiempo suficiente para pensar en sus respuestas. La entrevista debe celebrarse de modo tal que la persona entrevistada tenga tiempo suficiente para pensar las respuestas, no se debe afanar ni interrumpir; hay que ir realizando la entrevista al ritmo que permite el informante. También hay que dar tiempo para profundizar en las respuestas; éstas no siempre pueden ser tajantes y categóricas (Parada & Moreno Garzón, 1999).
       li.d-flex(data-aos="fade-up")
         i.fas.fa-check(style="color:#007D78;")
-        | 	Es conveniente utilizar frases de transición. En el conjunto de preguntas, casi siempre existe un grupo que se refiere a temas semejantes. Al terminar con un tema y pasar al siguiente, conviene echar mano de algunas frases de transición: “bueno”, “veamos ahora”, “muy bien...”, “¿le parece que sigamos con...?”. Estas expresiones “de descanso” ayudan también a ubicar psicológicamente al interrogado para no sentirse agotado ni agobiado” (Parada & Moreno Garzón, 1999).
+        | 	Es conveniente utilizar frases de transición. En el conjunto de preguntas, casi siempre existe un grupo que se refiere a temas semejantes. Al terminar con un tema y pasar al siguiente, conviene echar mano de algunas frases de transición: “bueno”, “veamos ahora”, “muy bien...”, “¿le parece que sigamos con...?”. Estas expresiones “de descanso” ayudan también a ubicar psicológicamente al interrogado para no sentirse "agotado ni agobiado” (Parada & Moreno Garzón, 1999).
       li.d-flex(data-aos="fade-up")
         i.fas.fa-check(style="color:#007D78;")
         | 	Debe dejarse constancia escrita de los cambios introducidos eventualmente en el cuestionario. Si bien por regla general no deben introducirse cambios en el cuestionario, podría presentarse algún motivo especial que los hiciera indispensables. El cambio podría ser alteración de orden de las preguntas, reemplazo de algunas palabras, formulación de la pregunta, en otros términos, etc. En estos casos, cualquiera que haya sido el motivo (aun el propio descuido del encuestador) el cambio debe ser anotado en el formulario o registro correspondiente y/o en el informe escrito posteriormente. Es necesario hacerlo así porque, como es obvio, la comparabilidad de las respuestas se basa en la identidad de las preguntas, cuando se realiza la misma entrevista a personas de forma individualizada (Parada & Moreno Garzón, 1999).

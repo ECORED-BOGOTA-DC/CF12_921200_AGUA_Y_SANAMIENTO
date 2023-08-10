@@ -8,7 +8,7 @@
       h1 Procesos de vigilancia y control sanitario
     
     p(data-aos="fade-up") De acuerdo con la resolución 1229 de 2013, dentro de la organización se debe establecer un enfoque sistémico que se encuentre organizado a través de procesos básicos que al cumplirse permiten tener vigilancia detallada de los procesos y un control sanitario de los productos.
-    p.mt-4(data-aos="fade-up") Los procesos básicos no hacen referencia a que son sencillos sino a la importancia que tienen frente a la organización (como base). Desde una perspectiva global se pueden dividir en procesos misionales y procesos estratégicos.
+    p.mt-4(data-aos="fade-up") Los procesos básicos no hacen referencia a que son sencillos, sino a la importancia que tienen frente a la organización (como base). Desde una perspectiva global se pueden dividir en procesos misionales y procesos estratégicos.
 
     Separador.mt-5
 
