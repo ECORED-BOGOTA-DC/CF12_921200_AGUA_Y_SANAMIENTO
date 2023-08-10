@@ -248,10 +248,10 @@ export default {
     {
       tema: '7. Medidas de prevención.',
       referencia:
-        'Organización Mundial de la Salud. (2020). Sistema HACCP los 7 principios.',
+        'Organización Panamericana de la Salud. (26 de 07 de 2020). El sistema HACCP: Los siete principios. OMS.',
       tipo: 'Página web',
       link:
-        'https://www.paho.org/hq/index.php?option=com_content&view=article&id=10913:2015-sistema-haccp-siete-principios&Itemid=41452&lang=es',
+        'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10832:2015-sistema-haccp&Itemid=41431&lang=es#gsc.tab=0',
     },
   ],
   glosario: [
@@ -369,7 +369,7 @@ export default {
       referencia:
         'Organización Panamericana de la Salud. (26 de 07 de 2020). El sistema HACCP: Los siete principios. OMS.',
       link:
-        'https://www.paho.org/hq/index.php?option=com_content&view=article&id=10913:2015-sistema-haccp-siete-principios&Itemid=41452&lang=es',
+        'https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10832:2015-sistema-haccp&Itemid=41431&lang=es#gsc.tab=0',
     },
     {
       referencia:
@@ -378,9 +378,8 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de la Salud. (23 de 7 de 2020). Principio II: Establecer los puntos críticos de control. OPS.',
-      link:
-        'https://www.paho.org/hq/index.php?option=com_content&view=article&id=10915:2015-principio-ii-establecer-los-puntos-criticos-de-control&Itemid=41432&lang=es',
+        'Alcalay, R. (2002). La comunicación para la salud como disciplina en las universidades estadounidense.',
+      link: 'https://www.scielosp.org/pdf/rpsp/1999.v5n3/192-196/es',
     },
     {
       referencia:

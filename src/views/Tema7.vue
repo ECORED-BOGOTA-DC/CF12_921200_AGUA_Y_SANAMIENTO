@@ -172,7 +172,7 @@
                 p.fw-bold.mb-1 HACCP
                 p.text-small.mb-0 En el material complementario podrá acceder a la sección del sistema HACCP de la página de la Organización Panamericana de la Salud, en la cual se profundiza en cada uno de los principios del sistema HACCP y cómo implementarlos. 
               .col-sm-auto
-                a.boton.color-primario(href="https://www.paho.org/hq/index.php?option=com_content&view=article&id=10913:2015-sistema-haccp-siete-principios&Itemid=41452&lang=es" target="_blank")
+                a.boton.color-primario(href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10832:2015-sistema-haccp&Itemid=41431&lang=es#gsc.tab=0" target="_blank")
                   span(style="color:#12263F !important;") Ver página
                   i.fas.fa-link(style="color:#12263F !important;")
     
